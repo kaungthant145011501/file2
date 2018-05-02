@@ -1,0 +1,31 @@
+h1{
+	color:red;
+	font-size: 50px;
+    font-family: Titan One;
+}
+
+.Picone{
+	border: 5px solid blue;
+}
+
+.Picone:hover{
+	border: 5px solid red;
+}
+
+#headingTwo{
+	background-color: #efefef;
+	padding: 20px;
+	font-size: 30px;
+	color: green
+	text-transform: uppercase;
+}
+
+.first-paragraph{
+	background-color: #333;
+	color: #ffffff;
+	padding: 10px;
+}
+
+.imageDiv{
+	margin: 50px 20px 0px 100px;
+}
